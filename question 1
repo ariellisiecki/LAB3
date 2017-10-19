@@ -1,0 +1,23 @@
+//account 2
+// simple private class
+// set and get name's values
+
+class Account
+{
+    static void Main() { }
+
+private string name; // instance variable
+
+    // method that sets the accunt name in the object
+    public void Set(string AccountName)
+
+    {
+        name = AccountName; // store the account name
+    }
+
+    // method that retrives the account name from the object
+    public string Get()
+    {
+        return name; // returen name's value to this methods caller
+    }
+}
