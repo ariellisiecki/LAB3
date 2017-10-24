@@ -1,0 +1,16 @@
+Person
+- name : string
+- zipCode : int
+- number : int
+- ssn : int
++ Talk (string sentence, int volume)
++ Move (double direction) : double
++ eat (string)
++ sleep (string)
+Cup
+- volume : int
+- area : int
+- data
++ Fill (int volume) : int
++ Measure (int are) : int
++ Calculate (int data) : int
