@@ -1,0 +1,2 @@
+the two values in an access modifier are private and public. 
+private indicates the name is only accessible to the class account's meathod while public is open to the methods and the class's client.
